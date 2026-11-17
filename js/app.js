@@ -1,7 +1,7 @@
 /* RODAR — demo navegable de un marketplace de autos usados.
    Sin backend: catálogo, favoritos, reservas y cotizaciones viven en localStorage. */
 
-const CASO_URL = "https://varyon.com.ar/";   // cambiar por la URL del caso de estudio
+const CASO_URL = "https://varyon.com.ar/proyectos/rodar"; // caso de estudio en la web de Varyon
 const KEY = "rodar-demo-v1";
 const KEY_VISTA = "rodar-demo-vista";
 const ANIO_ACTUAL = new Date().getFullYear();
